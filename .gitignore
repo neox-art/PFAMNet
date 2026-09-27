@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+.vscode/
+*.pt
+*.pth
+*.ckpt
+*.log
+summary/
+pred/
+eval.csv
