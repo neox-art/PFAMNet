@@ -1,0 +1,11 @@
+[general]
+name=Cropland SAM2 Labeler
+qgisMinimumVersion=3.40
+description=Interactive cropland polygon labeling with SAM2 prompt previews and manual split-based boundary correction.
+version=0.10.0
+author=Codex
+email=
+about=QGIS 3 plugin MVP for cropland labeling from remote sensing imagery. Supports configurable SAM2-style backends, prompt collection, polygon preview, shapefile append/update, geometry validation, and manual line split repair workflow.
+category=Digitizing
+experimental=True
+deprecated=False
